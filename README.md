@@ -1,7 +1,7 @@
 # 👋 Olá, sou Gabriel Lima
 
 ## 👀 Sobre Mim
-Sou um Engenheiro de DevOps, com interesse em alavancar automação e tecnologias em nuvem para otimizar fluxos de desenvolvimento e aumentar a confiabilidade de sistemas. Eu prospero em ambientes dinâmicos onde a colaboração e a melhoria contínua são valorizadas.
+Em busca de transação de carreira para Engenheiro de DevOps, com interesse em alavancar automação e tecnologias em nuvem para otimizar fluxos de desenvolvimento e aumentar a confiabilidade de sistemas. Eu prospero em ambientes dinâmicos onde a colaboração e a melhoria contínua são valorizadas.
 
 ## 🌱 Aprendendo Atualmente
 Atualmente, estou me aprofundando na orquestração Kubernetes e explorando práticas avançadas de CI/CD para otimizar pipelines de entrega de software. Além disso, estou aprimorando minhas habilidades de scripting com Python e Bash para automatizar tarefas rotineiras de forma mais eficiente.

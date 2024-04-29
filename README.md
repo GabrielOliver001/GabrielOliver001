@@ -10,4 +10,4 @@ Atualmente, estou me aprofundando na orquestração Kubernetes e explorando prá
 Estou aberto a colaborar em projetos relacionados a infraestrutura como código (IaC), containerização, integração e implantação contínuas, e design de arquitetura em nuvem. Seja construindo sistemas escaláveis e resilientes ou implementando soluções de monitoramento robustas, estou ansioso para contribuir com minha expertise em empreendimentos inovadores.
 
 ## 📫 Como me Encontrar
-Sinta-se à vontade para me conectar no LinkedIn (https://www.linkedin.com/in/gabriel-oliveira-a20311119/). Estou sempre aberto para discutir novas oportunidades, compartilhar insights ou simplesmente fazer networking com outros profissionais da comunidade DevOps.
+Sinta-se à vontade para me conectar no LinkedIn (https://www.linkedin.com/in/gabriel-lima-a20311119/). Estou sempre aberto para discutir novas oportunidades, compartilhar insights ou simplesmente fazer networking com outros profissionais da comunidade DevOps.

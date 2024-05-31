@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Lima</h1>
-<h3 align="center">DevOps EngineerSite | Reliability Engineer (SRE)</h3>
+<h3 align="center">DevOps Engineer | Site Reliability Engineer (SRE)</h3>
 
 ## 👀 Sobre Mim
   Estou na jornada de transição de carreira para Engenheiro de DevOps, com interesse em alavancar automação e tecnologias em nuvem para otimizar fluxos de desenvolvimento e aumentar a confiabilidade de sistemas. Eu prospero em ambientes dinâmicos onde a colaboração e a melhoria contínua são valorizadas.
